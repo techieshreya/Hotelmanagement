@@ -1,0 +1,78 @@
+Room Number: 1
+Guest Name: sai
+Guest Contact: 1234567654
+Check-In Date: 2023-12-23
+Stay Duration: 2 nights
+--------------------------------------------
+Room Number: 3
+Guest Name: anika
+Guest Contact: 3453345432
+Check-In Date: 2023-12-23
+Stay Duration: 2 nights
+--------------------------------------------
+Room Number: 3
+Guest Name: meenu
+Guest Contact: 2587413690
+Check-In Date: 2023-12-21
+Stay Duration: 2 nights
+--------------------------------------------
+Room Number: 2
+Guest Name: meenu
+Guest Contact: 7386214664
+Check-In Date: 2023-12-21
+Stay Duration: 2 nights
+--------------------------------------------
+Room Number: 3
+Guest Name: mene
+Guest Contact: 7894561233
+Check-In Date: 2023-12-23
+Stay Duration: 2 nights
+--------------------------------------------
+Room Number: 1
+Guest Name: gopal
+Guest Contact: 1234567890
+Check-In Date: 2023-12-23
+Stay Duration: 2 nights
+--------------------------------------------
+Room Number: 3
+Guest Name: akka
+Guest Contact: 1234543212
+Check-In Date: 2023-12-23
+Stay Duration: 3 nights
+--------------------------------------------
+Room Number: 1
+Guest Name: gg
+Guest Contact: 1234567890
+Check-In Date: 2304-01-11
+Stay Duration: 6 nights
+--------------------------------------------
+Room Number: 3
+Guest Name: gg
+Guest Contact: 1234567809
+Check-In Date: 2024-01-02
+Stay Duration: 2 nights
+--------------------------------------------
+Room Number: 2
+Guest Name: anika
+Guest Contact: 1234567890
+Check-In Date: 2023-12-23
+Stay Duration: 2 nights
+--------------------------------------------
+Room Number: 3
+Guest Name: shreya
+Guest Contact: 1234567890
+Check-In Date: 2023-12-14
+Stay Duration: 2 nights
+--------------------------------------------
+Room Number: 2
+Guest Name: anika
+Guest Contact: 1234567890
+Check-In Date: 2023-12-21
+Stay Duration: 3 nights
+--------------------------------------------
+Room Number: 7
+Guest Name: qq
+Guest Contact: 1111111111
+Check-In Date: 4564-12-12
+Stay Duration: 3 nights
+--------------------------------------------
